@@ -8,5 +8,4 @@ def TestFun(request):
 
 def TestFuncont(request):
     return render(request,'index.html')
-def newpg(request):
-    return render(request,'index1.html')
+
