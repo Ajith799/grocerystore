@@ -1,0 +1,56 @@
+input{
+    border-style: ridge;
+    padding: 5px;
+    text-align: center;
+    letter-spacing: 3px;
+    width: 330px;
+    height: 19px;
+    border-radius: 20px;
+}
+table{
+    align-items: center;
+    background-image: linear-gradient(white red blue );
+    margin-top: 18%;
+    background-image: radial-gradient(white,grey );
+    border-radius: 20px;
+    
+}
+#login{
+    letter-spacing: 4px ;
+      text-transform: capitalize ;
+    
+}
+button{
+    
+           margin: 10px;
+           padding: 15px 45px;
+           text-align: center;
+           text-transform: uppercase;
+           
+           transition: 0.5s;
+           background-size: 200% auto;
+           color: rgb(252, 252, 252);            
+           box-shadow: 0 0 20px rgba(230, 230, 230, 0.507);
+           border-radius: 10px;
+           display: block;
+           background-image: linear-gradient(#cc2b5e,#753a88 );
+           text-decoration: solid;
+           text-shadow: #753a88;
+         }
+
+         button:hover {
+           background-position: right center; /* change the direction of the change here */
+           color: rgb(133, 14, 14);
+           text-decoration: none;
+         }
+         .forgotpassword{
+         text-align: center;
+         margin: left 500px;
+         margin-top: -10px;
+         }
+         .signup{
+           margin-left: 710px;
+           margin-top: -9px;
+
+         }
+        
